@@ -12,3 +12,4 @@ c:\Users\Afdhal\MathGame\obj\Debug\net8.0\refint\MathGame.dll
 c:\Users\Afdhal\MathGame\obj\Debug\net8.0\MathGame.pdb
 c:\Users\Afdhal\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
 c:\Users\Afdhal\MathGame\obj\Debug\net8.0\ref\MathGame.dll
+c:\Users\Afdhal\MathGame\obj\Debug\net8.0\MathGame.sourcelink.json
